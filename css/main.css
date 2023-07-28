@@ -49,7 +49,7 @@ header .inner nav {
     background-color: royalblue;
     position: fixed;
     top: 0;
-    left: 0;
+    left: -100%;
     padding: 50px;
     text-align: center;
 }
